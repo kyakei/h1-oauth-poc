@@ -1,5 +1,5 @@
 {
-  "client_id": "https://raw.githubusercontent.com/kyakei/h1-oauth-poc/refs/heads/main/client.json",
+  "client_id": "https://cdn.jsdelivr.net/gh/kyakei/h1-oauth-poc@main/client.json",
   "client_name": "yuvrajt-h1-research",
   "client_uri": "https://github.com/kyakei/h1-oauth-poc",
   "redirect_uris": [
